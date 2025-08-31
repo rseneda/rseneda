@@ -24,9 +24,12 @@ Minha trajetória une **análise crítica, comunicação estratégica e resoluç
 ---
 
 ## 📚 Formação & Certificações
-🎓 **Pós-graduação em Inteligência Artificial** – em andamento  
+🎓 **Pós-graduação em Inteligência Artificial** – em andamento
+
 🎓 **Bacharelado em Ciência e Tecnologia** – em andamento 
+
 🎓 **Inglês** – em andamento 
+
 🎓 **Bacharelado em Direito (OAB/MT)**  
 
 📜 **Certificações selecionadas**:
