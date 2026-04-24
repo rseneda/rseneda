@@ -24,9 +24,11 @@ Minha trajetória une **análise crítica, comunicação estratégica e resoluç
 ---
 
 ## 📚 Formação & Certificações
-🎓 **Pós-graduação em Inteligência Artificial** – em andamento
+🎓 **Certificação Scrum Master I**
 
-🎓 **Bacharelado em Ciência e Tecnologia** – em andamento 
+🎓 **Pós-graduação em Inteligência Artificial**
+
+🎓 **Bacharelado em Ciência e Tecnologia** 
 
 🎓 **Inglês** – em andamento 
 
