@@ -26,7 +26,11 @@ Minha trajetória une **análise crítica, comunicação estratégica e resoluç
 ## 📚 Formação & Certificações
 🎓 **Certificação Scrum Master I**
 
+🎓 **Pós-graduação em Metodologias Ágeis**
+
 🎓 **Pós-graduação em Inteligência Artificial**
+
+🎓 **Bacharelado em Engenharia de Software** - em andamento
 
 🎓 **Bacharelado em Ciência e Tecnologia** 
 
@@ -45,6 +49,7 @@ Minha trajetória une **análise crítica, comunicação estratégica e resoluç
 ---
 
 ## 🌍 Experiência Relevante
+- **Tribunal de Justiça do Estado de MT (TJMT) - BASIS Tecnologia** – analista de sistemas: análise de requisitos, testes, validação e integração de sistemas.  
 - **Controladoria Geral do Estado de MT (CGE)** – estágio em TI: suporte, manutenção e instalação de sistemas  
 - **INTERMAT – Instituto da Terra de MT** – estágio em TI: apoio em licitações e tecnologia  
 - **Instrutora de Informática (Word, Excel, Básico de TI)** – EC Cursos  
