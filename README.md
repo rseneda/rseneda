@@ -57,12 +57,5 @@ Minha trajetória une **análise crítica, comunicação estratégica e resoluç
 
 ---
 
-## 📌 Próximos Passos
-- Contribuir em projetos de **IA aplicada e automação**  
-- Desenvolver repositórios de **scripts em Python** para apoio à gestão e processos jurídicos/administrativos  
-- Produzir conteúdos sobre **Governança de IA** e **Boas Práticas em Projetos de Inteligência Artificial**  
-
----
-
 📫 Contato: **[rseneda@gmail.com](mailto:rseneda@gmail.com)**  
 🔗 LinkedIn:**[https://www.linkedin.com/in/roberta-r-seneda-vilella-3a1b9022a/]**
